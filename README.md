@@ -1,1 +1,1 @@
-# it3b-tihlarik
+# Zadání úkolů pro IT3B sk2
